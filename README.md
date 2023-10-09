@@ -25,37 +25,37 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bash.png" width="48" height="48" alt="Bash" />
+        <img src="./images/bash.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c.png" width="48" height="48" alt="C" />
+        <img src="./images/c.png" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="/img/c++.png" width="48" height="48" alt="C++" />
+        <img src="/images/c++.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/html.png" width="48" height="48" alt="HTML" />
+        <img src="./images/html.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/sql.png" width="48" height="48" alt="SQL" />
+        <img src="./images/sql.png" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
@@ -63,7 +63,7 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/power.png" width="48" height="48" alt="Powershell" />
+        <img src="./images/power.png" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
