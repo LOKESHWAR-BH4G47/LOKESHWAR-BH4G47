@@ -83,6 +83,44 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
     </tr>
 </table>
 
+> Databases and cloud hosting
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>my-sql
+    </td>
+    </tr>
+</table>
+
+> operating system
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/windo.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/kali.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>kali
+    </td>
+    </tr>
+</table>
+
 
 ## Projects
 
