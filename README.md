@@ -1,5 +1,15 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 # Lokeshwar Bhagat - Self-Taught Programmer & Cybersecurity Enthusiast
+<h3 align="center">
+  Welcome to Lokeshwar Bhagat's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Lokeshwar+Bhagat;I%27m+Self-taught+Programmer;I+am+an+Cybersecurity+enthusiast;I+am+a+creator;"></a>
+  </h2>
+ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lokeshwarbhagat/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/LOKESHWAR-BH4G47)
