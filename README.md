@@ -1,3 +1,4 @@
+[![MasterHead](00086-desk-anim-v0.3.gif)]()
 # Lokeshwar Bhagat - Self-Taught Programmer & Cybersecurity Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lokeshwarbhagat/)
