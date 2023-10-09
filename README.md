@@ -83,7 +83,7 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/mysql-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/mysql-original.png" width="48" height="48" alt="Python" />
       </a>
       <br>my-sql
     </td>
@@ -102,7 +102,7 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/debian.png" width="48" height="48" alt="Golang" />
+        <img src="./images/debain.png" width="48" height="48" alt="Golang" />
       </a>
       <br>Debian
     </td>
