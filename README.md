@@ -28,15 +28,17 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
 - **Penetration Testing:** I love testing the security of systems and applications to help make them more robust.
 - **Security Research:** I keep up with the latest cybersecurity trends and research to stay at the forefront of the field.
 - **Learning:** I'm constantly learning and improving my skills in cybersecurity through courses, certifications, and hands-on experience.
-- 
-<h2 align="left">Dev-Hub</h2>
->Programming Languages
+
+
+<h2 align="left" >Dev-Hub</h2>
+
+> Progamming languages
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/bash.png" width="48" height="48" alt="Bash" />
+        <img src="./images/bash.png" width="48" height="48" alt="#" />
       </a>
       <br>Bash
     </td>
@@ -48,25 +50,25 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/c.png" width="48" height="48" alt="C" />
+        <img src="./images/c.png" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="/images/c++.png" width="48" height="48" alt="C++" />
+        <img src="/images/c++.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#">
-        <img src="./images/html.png" width="48" height="48" alt="HTML" />
+        <img src="./images/html.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#">
-        <img src="./images/sql.png" width="48" height="48" alt="SQL" />
+        <img src="./images/sql.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>SQL
     </td>
@@ -74,12 +76,11 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/power.png" width="48" height="48" alt="Powershell" />
+        <img src="./images/power.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Powershell
     </td>
-    
-  </tr>
+    </tr>
 </table>
 
 
@@ -94,5 +95,7 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   - Python
   - Networking
   - Bash
+
+
 
 
