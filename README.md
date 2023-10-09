@@ -13,13 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lokeshwarbhagat/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/LOKESHWAR-BH4G47)
 
-Passionate self-taught programmer and Cybersecurity Enthusiast dedicated to making ideas come to life with elegant interfaces.
-
 ## About Me
-
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lokeshwarbhagat/)
-- **GitHub:** [GitHub Profile](https://github.com/LOKESHWAR-BH4G47)
-
 I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all things related to online security, ethical hacking, and privacy. I believe in the importance of digital security in today's interconnected world and am committed to learning, sharing knowledge, and collaborating with like-minded individuals.
 
 ## Areas of Interest
@@ -89,7 +83,7 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/mysql-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>my-sql
     </td>
@@ -102,19 +96,19 @@ I'm Lokeshwar Bhagat, a cybersecurity enthusiast with a keen interest in all thi
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/windo.png" width="48" height="48" alt="C#" />
+        <img src="./images/windo.png" width="48" height="48" alt="C#" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Golang" />
+        <img src="./images/debian-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/kali.png" width="48" height="48" alt="TypeScript" />
+        <img src="./images/kali.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>kali
     </td>
