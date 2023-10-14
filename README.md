@@ -1,4 +1,4 @@
-[![MasterHead](octocat-1697279405111.png)]()
+[![MasterHead](mario.gif)]()
 
 <h3 align="center">
   Welcome to Lokeshwar Bhagat's profile!
