@@ -1,4 +1,4 @@
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
+[![MasterHead](octocat-1697279405111.png)]()
 
 <h3 align="center">
   Welcome to Lokeshwar Bhagat's profile!
