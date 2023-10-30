@@ -1,4 +1,4 @@
-[![MasterHead](mario.gif)]()
+[![MasterHead](noname.gif)]()
 
 <h3 align="center">
   Welcome to Lokeshwar Bhagat's profile!
