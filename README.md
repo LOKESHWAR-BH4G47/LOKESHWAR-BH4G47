@@ -1,9 +1,17 @@
-[![MasterHead](noname.gif)]()
+
 
 <h3 align="center">
   Welcome to Lokeshwar Bhagat's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+[![MasterHead](noname.gif)]()
+<div align="center">
+  <img src="noname.gif" alt="MasterHead">
+</div>
+<div style="text-align:center;">
+  <img src="noname.gif" alt="MasterHead">
+</div>
+
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
